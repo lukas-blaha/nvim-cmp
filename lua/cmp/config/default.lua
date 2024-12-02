@@ -98,6 +98,7 @@ return function()
       entries = {
         name = 'custom',
         selection_order = 'top_down',
+        vertical_posotioning = 'below',
         follow_cursor = false,
       },
       docs = {
